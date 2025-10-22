@@ -72,8 +72,9 @@ https://craftinginterpreters.com
 
 📘 출처:
 
-코드와트 github : [CodeWatt / AI를 활용한 Flutter 첫걸음](https://github.com/johnkim-codewatt/book_flutter_ai)
+코드와트 github : [CodeWatt / AI를 활용한 Flutter 첫걸음](https://github.com/johnkim-codewatt/new_book_flutter_ai)
 이메일 : john.kim@codewatt.info
+유튜브 : https://www.youtube.com/@코드와트
 
 
 ---
