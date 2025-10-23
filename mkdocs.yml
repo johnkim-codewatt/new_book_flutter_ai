@@ -1,0 +1,15 @@
+site_name: New Book — Flutter AI
+site_description: "책 문서: Flutter + AI 예제와 설명"
+repo_url: https://github.com/johnkim-codewatt/new_book_flutter_ai
+nav:
+  - Home: index.md
+theme:
+  name: material
+  language: ko
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - pymdownx.superfences
+plugins:
+  - search
