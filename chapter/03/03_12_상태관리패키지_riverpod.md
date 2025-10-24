@@ -97,7 +97,6 @@ void main() {
 ```
 
 **StateProvider**
-![image.png](attachment:612133b0-9e27-45d7-9222-e5e2a5bc7284:image.png)
 
 위에서 잠시 살펴본, StateProvider는 간단한 값(int, String, bool 등)을 상태정보로써 관리할 때 사용하기 적합한 Provider이다.
 Flutter 위젯 트리의 상하 구조와 무관하게 전역으로 상태를 정의할 수 있기때문에 매우 편리하다.
